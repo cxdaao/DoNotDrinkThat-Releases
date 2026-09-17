@@ -4,6 +4,8 @@
 
 This repository hosts Windows client downloads and releases for **Don't Drink That!**.
 
+Visit the game on itch.io: [Don't Drink That!](https://tomatofield.itch.io/dont-drink-that).
+
 ### Download and play
 
 1. Open the [Releases page](https://github.com/cxdaao/DoNotDrinkThat-Releases/releases) and choose a version. Preview builds are marked **Pre-release**.
@@ -21,6 +23,8 @@ This repository contains release downloads and documentation. Game source code i
 ## 中文
 
 本仓库提供 **《这瓶先别喝》** 的 Windows 客户端下载与版本发布。
+
+访问 itch.io 游戏页面：[《这瓶先别喝》](https://tomatofield.itch.io/dont-drink-that)。
 
 ### 下载与启动
 
